@@ -1,6 +1,10 @@
 # JupyterLab Kernel Usage
 
-> Advance notice: this extension is being contributed upstream; future versions will be published under [jupyter-server/jupyter-resource-usage](https://github.com/jupyter-server/jupyter-resource-usage).
+> **Note**
+> 
+> We are excited to announce that this extension was contributed upstream to [jupyter-server/jupyter-resource-usage](https://github.com/jupyter-server/jupyter-resource-usage).
+> 
+> Because this repository will no longer receive updates, we encourage users to migrate to [`jupyter-resource-usage`](https://github.com/jupyter-server/jupyter-resource-usage) which contains the same functionality as `jupyterlab-kernel-usage` (and more!).
 
 This is an extension for [JupyterLab](https://github.com/jupyterlab/jupyterlab) to get kernel usage in a sidebar.
 
